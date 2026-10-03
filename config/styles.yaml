@@ -1,0 +1,11 @@
+video:
+  width: 1080
+  height: 1920
+  fps: 24
+colors:
+  background: "#000000"
+  primary_text: "#FFFFFF"
+  accent: "#FF1493"
+subtitles:
+  max_words_per_cue: 3
+  bottom_margin: 300

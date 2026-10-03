@@ -1,0 +1,3 @@
+default:
+  provider: edge-tts
+  voice: en-GB-RyanNeural

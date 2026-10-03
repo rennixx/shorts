@@ -1,0 +1,8 @@
+edge-tts
+ffmpeg-python
+httpx
+moviepy
+Pillow
+pytest
+pytest-asyncio
+PyYAML

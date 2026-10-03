@@ -1,0 +1,10 @@
+script:
+  system: "Write concise tactical football analysis with no hype language."
+  user_template: |
+    Write one 45-55 word football short about this match.
+    Use one tactical claim and 2-3 supporting facts.
+    Match: {home_team} vs {away_team}
+    Score: {home_score}-{away_score}
+    xG: {home_xg}-{away_xg}
+    Possession: {home_possession}-{away_possession}
+    Key events: {key_events}
